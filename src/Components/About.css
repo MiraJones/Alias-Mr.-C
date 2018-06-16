@@ -1,0 +1,33 @@
+.about-page{
+    background-image: url("https://pre00.deviantart.net/a5d8/th/pre/f/2013/249/1/7/library_by_vityar83-d6l7va6.jpg");
+    background-attachment: fixed;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.about-content{
+    height: 100vw;
+    width: 60%;
+    background: linear-gradient(#FFF7C6, #582313);
+    color: #000000;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.about-title{
+    font-family: 'Tangerine', cursive;
+    font-size: 62px;
+    color: #66c9cf;
+    display: flex;
+    justify-content: center;
+    /* background-image: ""; */
+}
+
+.about-first, .about-second{
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 30px;
+    display: block;
+}
