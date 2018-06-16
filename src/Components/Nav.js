@@ -15,8 +15,8 @@ export default function Nav() {
             <a href="/#/defenseAgainstTheDarkArts">
               Defense Against The Dark Arts
             </a>
-            <a href="/#/ELO">ELO</a>
-            <a href="/#/Empires">Empires</a>
+            <a href="/#/ELO">Ex Libris Optimis</a>
+            <a href="/#/Empires">Three Empires</a>
           </div>
         </div>
         <div className="others">

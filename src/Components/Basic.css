@@ -1,15 +1,15 @@
 .page{
     background-image: url("https://pre00.deviantart.net/a5d8/th/pre/f/2013/249/1/7/library_by_vityar83-d6l7va6.jpg");
     background-attachment: fixed;
-    height: 100vw;
+    height: 100%;
     display: flex;
     justify-content: center;
     box-sizing: border-box;
 }
 
 .page-content{
-    height: 100vw;
-    width: 60%;
+    height: 100%;
+    width: 74%;
     background: linear-gradient(#FFF7C6, #582313);
     color: #000000;
     padding: 30px;

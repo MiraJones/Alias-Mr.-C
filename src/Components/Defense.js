@@ -21,7 +21,7 @@ export default function Defense() {
           Tuesday mornings, 9-11am (Location TBA--in Lehi).<br />
           Beginning June 19, running to July 31 (six classes). <br /> 
           Fee for the class is $95, and can be paid weekly ($16/wk). Discounts available for multiple students. <br />
-          Ages 12 to as-long-as-you’re-interested.<br />
+          Ages 12 to as-long-as-you’re-interested.<br /> <br />
           Contact Mr. C at mrc@aliasmrc.com.<br />
         </div>
       </div>

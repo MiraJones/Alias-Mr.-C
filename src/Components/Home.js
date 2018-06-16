@@ -6,27 +6,27 @@ export default function Home() {
   return (
     <div className="home">
       <div className="home-content">
-        <h1 className="home-title">Chris Jones, Alias Mr. C</h1>
+      <div className="home-pic"></div>
         <div className="classes-block">
           <h3 className="home-subtitle">
             Classes Mr. C is Teaching:
             <hr className="sub-underline"/>
           </h3>
-          
             <Link to="/defenseAgainstTheDarkArts">
-              <div className="home-first">Defense Against the Dark Arts</div>
+              <p className="home-first">Defense Against the Dark Arts (summer)</p>
             </Link>
             <Link to="/ELO">
-              <div className="home-first">ELO</div>
+              <p className="home-first">Ex Libris Optimis (ELO)</p>
             </Link>
             <Link to="/Empires">
-              <div className="home-first">Empires</div>
+              <p className="home-first">Three Empires (Egypt, Greece, Rome)</p>
             </Link>
+          <hr className="sub-underline"/>
         </div>
-        <div className="why block">
-          <h3 className="why">Why Mr. C?</h3>
+        <div className="why-block">
           <Link to="/testimonials">
-          <div className="to-testimonials">Check out the Testimonials</div>
+          <h3 className="home-subtitle" id="why">Why Mr. C?
+          </h3>
           </Link>
         </div>
       </div>

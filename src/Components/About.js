@@ -30,6 +30,9 @@ export default function About() {
           Advertising. He writes short stories and novels under the pen name of
           Cj Lehi. Mr. C resides in Lehi, UT with his wife Jeanette, their eight
           children, three cats, and a stray hummingbird.
+          <br />
+          <br />
+          Contact Mr. C at mrc@aliasmrc.com
         </div>
       </div>
     </div>
