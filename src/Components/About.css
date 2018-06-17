@@ -22,7 +22,13 @@
     color: #66c9cf;
     display: flex;
     justify-content: center;
-    /* background-image: ""; */
+    line-height: 36px;
+    height: 250px;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+    background-image: url("./about.jpg");
 }
 
 .about-first, .about-second{

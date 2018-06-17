@@ -39,6 +39,11 @@ font-family: 'Rock Salt', cursive; */
     padding: 7px;
 }
 
+.testimonials, .about, .dropbtn{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+}
+
 .others .dropbtn{
     border-left: 2px solid black;
     border-right: 2px solid black;
@@ -52,10 +57,9 @@ a{
 .dropbtn{
     background-color: #582313;
     color: #FFF7C6;
-    font-size: 16px;
     border: none;
     cursor: pointer;
-    padding: 21px 4px;
+    padding: 9px 4px;
 }
 
 .dropdown{

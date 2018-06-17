@@ -15,8 +15,10 @@ export default function Nav() {
             <a href="/#/defenseAgainstTheDarkArts">
               Defense Against The Dark Arts
             </a>
+            <a href="/#/Lumen">Lumen Scholar Institute</a>
             <a href="/#/ELO">Ex Libris Optimis</a>
             <a href="/#/Empires">Three Empires</a>
+            <a href="/#/Ensign">Ensign Peak Academy</a>
           </div>
         </div>
         <div className="others">

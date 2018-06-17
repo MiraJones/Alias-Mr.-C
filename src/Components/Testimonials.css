@@ -11,5 +11,11 @@
     display: flex;
     align-items: flex-end;
     padding: 10px;
-    background-image: url(/static/media/testimonials.4cd228e2.jpg);
+    background-image: url("./testimonials.jpg");
+}
+
+.message{
+    border: 1px dotted black;
+    padding: 5px 14px;
+    border-radius: 22px;
 }
