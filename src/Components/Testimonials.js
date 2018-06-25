@@ -10,13 +10,10 @@ export default function Testimonials() {
           <div className="message">
             Thank you for being the greatest teacher on planet earth. You have
             changed my life and the life of many others. You have changed the
-            way I think and the way I think about myself. So thank you for that
-            I was going to Wright you a letter during lunch yesterday but I
-            forgot sorry about that. But when I read what you said I released
-            that I really really don't want school to be over and I don't want
-            my friends and teachers to not be there for me. One thing I know now
-            is that you will always be there for me and you will always show how
-            much you love me. When I wrote in your year book I had the same
+            way I think and the way I think about myself. So thank you for that.
+            But when I read what you said I released that I really really don't
+            want school to be over and I don't want my friends and teachers to
+            not be there for me. When I wrote in your year book I had the same
             thought you did that I now have to write a novel. I am glad you get
             me for two more years and I am glad that you get to teach me all
             through my first teenage years. You will be the one teacher I will
@@ -29,8 +26,7 @@ export default function Testimonials() {
             up I want to be a junior high history teacher and a published author
             and also a attorney one day to. Thank you for believing in me and
             making me feel I can do what ever I want to do. You have inspired me
-            in every way possible so thank you! I hope I haven't made you cry. I
-            love you like a dad!
+            in every way possible so thank you! I hope I haven't made you cry.
           </div>
           <br />
           <div className="author">Kelsie Wakefield</div>
@@ -56,10 +52,10 @@ export default function Testimonials() {
             but I always know you will be there for me. I can't wait for the
             Defence Against the Dark Arts class and I especially can't wait for
             school to start again. I just wanted to let you know that I think
-            you are amazing and that I love you as if you were my father.
+            you are amazing.
           </div>
           <br />
-          <div className="author">anonymous</div>
+          <div className="author">Sarah Perry</div>
           <br />
           <br />
           <div className="message">
@@ -135,6 +131,42 @@ export default function Testimonials() {
           </div>
           <br />
           <div className="author">Tim</div>
+          <div className="message">
+            Mr. C is a middle school history teacher at Lumen, but he isn't just
+            a teacher. Mr. C does teach history, but he does it in such a fun
+            way. In Mr. C's class every student is wide awake and ready to
+            learn. I've heard students say they used to despise history, and it
+            was their least favorite subject. Then those students said they
+            found Me. C and history came to life for them. Other student said
+            Mr. C's class is like Disneyland. We're on rides, rides of fun,
+            learning that will stick and stay. The history sticks in your head,
+            but Mr. C sticks in your heart. We LOVE Mr. C!
+          </div>
+          <br />
+          <div className="author">Lumen Scholar Institute 7th Grade</div>
+          <div className="message">
+            Hey Mr. C, I just want you to know I miss you. You were a great
+            teacher and you helped me find purpose, you showed that you cared
+            and that I wasn't just someone in the crowd. I can never thank you
+            enough.
+          </div>
+          <br />
+          <div className="author">Hannah</div>
+          <div className="message">
+            Hey Mr. C! Can I just start by saying thank you so so so so much!
+            Honestly, you brought to light so many questions that I have had
+            personally buried deeper in myself then I care to admit. Because of
+            your passion and inspiration, I was able to really reflect on myself
+            and these questions I have. Although not all of them have been
+            answered I am well on my way to not only finding the answer but
+            understanding it as well. I'd be more than happy to share with you
+            how and when I find these answers, but as for now, thank you for the
+            impact you have made on me. I have been set into motion past the
+            outer stars (Probably way past Karak) and I can't wait to see what I
+            discover. Thank you again!
+          </div>
+          <br />
+          <div className="author">Sidney</div>
         </div>
       </div>
     </div>

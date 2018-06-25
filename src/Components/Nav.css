@@ -26,7 +26,7 @@ font-family: 'Rock Salt', cursive; */
 
 .logo{
     font-family: 'Ruthie', cursive;
-    font-size: 5vw;
+    font-size: 60px;
     color: #FFF7C6;
     margin-top: 16px;
 }
@@ -92,4 +92,16 @@ a{
 
 .dropdown:hover .dropbtn{
     background-color: rgb(97, 91, 91);
+}
+
+@media(max-width: 600px){
+    .logo{
+        font-size: 21px;
+    }
+    .home-title{
+        font-size: 90px;
+    }
+    .defense-title{
+        font-size: 70px;
+    }
 }

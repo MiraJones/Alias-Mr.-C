@@ -20,12 +20,10 @@
 
 .home-title{
     font-family: 'Tangerine', cursive;
-    font-size: 8vw;
+    font-size: 110px;
     color: #66c9cf;
-    margin: 20px; 
     display: flex;
     justify-content: center;
-    line-height: 36px;
 }
 
 .home-pic{
