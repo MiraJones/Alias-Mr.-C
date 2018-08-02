@@ -31,13 +31,13 @@ export default function ELO() {
           a case-by-case basis.<br />
           <br />
           Two options:<br />
-          <a href="southvalleyleadershipacademy.net">
+          <a href="https://southvalleyleadershipacademy.net/">
             South Valley Leadership Academy
           </a>
           (Tuesdays)
           <br />
           <br />
-          <a href="aspiresa.com">Aspire Scholar Academy</a>
+          <a href="http://www.aspiresa.com/">Aspire Scholar Academy</a>
           (Thursdays)
         </div>
       </div>
